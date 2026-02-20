@@ -105,7 +105,7 @@ Flashing blindly is how devices get compromised.
 
 ## 📜 Attribution
 
-CharaROM is based on **crDroid**, and much of its code originates from the crDroid project.  
+CharaROM is based on **BlissROM**, and much of its code originates from the crDroid and BlissROM projects, with some features originating from other ROMs.  
 Proper attribution is maintained at all times.
 
 This README is adapted from the crDroid profile README found  
