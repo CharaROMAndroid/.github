@@ -124,3 +124,7 @@ Their involvement is voluntary, and many ideas and features are the result of op
 We greatly appreciate their participation and insight.
 
 ---
+
+## 💲 Donations
+Our "Core" team consists of [eepymeowers](https://ko-fi.com/eepymeowers), [Chara](https://throne.com/bunnypad), and jpb. jpb, at this time, does not have any known donation link.
+Device Maintainers will have their associated donation links in their XDA Post or their device.json file.
