@@ -8,7 +8,7 @@
 
 ## 📱 About CharaROM
 
-CharaROM is a custom Android ROM based on LineageOS (with features of other ROMs), designed with a focus on **security, stability, performance, and user control**. It delivers a clean Android experience enhanced by thoughtful features that improve everyday usability—without compromising reliability.
+CharaROM is a custom Android ROM based on crDroid (with features of other ROMs), designed with a focus on **accessibility, security, stability, performance, and user control**. It delivers a clean Android experience enhanced by thoughtful features that improve everyday usability—without compromising reliability.
 
 The goal is simple:
 
@@ -106,7 +106,7 @@ Flashing blindly is how devices get compromised.
 
 ## 📜 Attribution
 
-CharaROM is based on **LineageOS**, and much of its code originates from the crDroid and other projects projects, with some features originating from other ROMs.  
+CharaROM is based on **crDroid**, and much of its code originates from other LineageOS-based projects, with some features being added from our own ideas.  
 Proper attribution is maintained at all times.
 
 This README is adapted from the crDroid profile README found  
