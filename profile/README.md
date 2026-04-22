@@ -3,12 +3,12 @@
 <p align="center">
   <b>Uniquely Chaotic =)</b>
 </p>
-
+***NOTICE:*** Emojis were included to help make it easier to navigate this readme.
 ---
 
 ## 📱 About CharaROM
 
-CharaROM is a custom Android ROM based on crDroid (with features of other ROMs), designed with a focus on **accessibility, security, stability, performance, and user control**. It delivers a clean Android experience enhanced by thoughtful features that improve everyday usability—without compromising reliability.
+CharaROM is a custom Android ROM based on crDroid (with features of other ROMs), designed with a focus on **accessibility, security, stability, performance, and user control**. It delivers a clean Android experience enhanced by thoughtful features that improve everyday usability, without compromising reliability.
 
 The goal is simple:
 
@@ -22,9 +22,9 @@ The goal is simple:
 
 The name *CharaROM* has a dual meaning.
 
-Part of the inspiration comes from *Undertale*, where the character Chara is associated with themes of chaos, control, and consequence. More importantly, however, **Chara is the lead developer’s chosen non-binary name**, and this project reflects their personal values and design philosophy.
+**Chara is the lead developer’s chosen non-binary name**, and this project reflects their personal values and design philosophy. However, part of the inspiration comes from *Undertale*, where the character Chara is associated with themes of chaos, control, and consequence/absoluteness.
 
-Some features in CharaROM are lightly inspired by the *chara*cter conceptually—but this project is **not affiliated with Toby Fox, Undertale, or Deltarune** in any way.
+Some features in CharaROM are lightly inspired by the *chara*cter conceptually; but this project is **not affiliated with Toby Fox, Undertale, or Deltarune** in any way.
 
 *(Undertale is © Toby Fox.)*
 
@@ -63,6 +63,7 @@ The system stays smooth, responsive, and predictable—because reliability is a 
 
 CharaROM closely tracks AOSP and regularly incorporates recent Android security patches.  
 Open development ensures changes can be reviewed, audited, and improved by the community.
+However, please note that every change gets tested to the best of our ability to ensure stability.
 
 ---
 
@@ -77,11 +78,11 @@ If you want control without sacrificing stability or security, **CharaROM is bui
 
 ---
 
-## ⚠️ Important warning — please read
+## ⚠️ Important warning -- please read
 
 > **Flashing custom ROMs carries risk.**
 
-Some Android ROMs—such as **closed-source projects or ROMs maintained by developers banned from major Android communities**—cannot be independently audited.
+Some Android ROMs, such as **closed-source projects or ROMs maintained by developers banned from major Android communities**, cannot be independently audited.
 
 Additionally, some projects fail to properly attribute upstream sources, which harms the open-source ecosystem and undermines trust.
 
@@ -112,8 +113,16 @@ Proper attribution is maintained at all times.
 This README is adapted from the crDroid profile README found  
 [here](https://github.com/crdroidandroid/.github/blob/628ebaeec5db8dfe8d21f67bdc3cc0468bc555ee/profile/README.md).
 
-We sincerely thank the **crDroid Team** for their work and contributions.
+We sincerely thank the **crDroid Team** for their work and contributions. 
+--
+Fonts Used:
+[Determination Mono/Determination Sans fonts](https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font#)
+[the Mercy font](https://www.deviantart.com/maxigamer/art/MERCY-Font-the-UNDERTALE-font-for-battle-buttons-590779512)
+[Atkinson Hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible?tab=readme-ov-file)
+[OpenDyslexic](https://forge.hackers.town/antijingoist/opendyslexic)
+[Papyrus](https://befonts.com/papyrus-font.html)
 
+These fonts are used under license. We thank their respective makers for their hard work. Other included fonts are from upstream crDroid.
 ---
 
 ## 📢 Notice
@@ -126,5 +135,4 @@ We greatly appreciate their participation and insight.
 ---
 
 ## 💲 Donations
-Our "Core" team consists of [eepymeowers](https://ko-fi.com/eepymeowers), [Chara](https://throne.com/bunnypad), and jpb. jpb, at this time, does not have any known donation link.
-Device Maintainers will have their associated donation links in their XDA Post or their device.json file.
+Please check out our [Team](https://github.com/CharaROMAndroid/team) repository to learn how to donate to our team members.
