@@ -22,7 +22,7 @@ The goal is simple:
 
 The name *CharaROM* has a dual meaning.
 
-**Chara is the lead developer’s chosen non-binary name**, and this project reflects their personal values and design philosophy. However, part of the inspiration comes from *Undertale*, where the character Chara is associated with themes of chaos, control, and consequence/absoluteness.
+**Chara is the lead developer’s chosen name**, and this project reflects their personal values and design philosophy. However, part of the inspiration comes from *Undertale*, where the character Chara is associated with themes of chaos, control, and consequence/absoluteness.
 
 Some features in CharaROM are lightly inspired by the *chara*cter conceptually; but this project is **not affiliated with Toby Fox, Undertale, or Deltarune** in any way.
 
