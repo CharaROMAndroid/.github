@@ -132,6 +132,8 @@ While a crDroid maintainer is part of the CharaROM team, **this project is not i
 Their involvement is voluntary, and many ideas and features are the result of open collaboration.  
 We greatly appreciate their participation and insight.
 
+***CharaROM does accept AI-assisted commits, but human contributors are completely responsible for any commit made with AI assistance. CharaROM is made by someone with physical and mental disabilities, and LLMs have assisted her in her workflow, especially with advice.***
+
 ---
 
 ## 💲 Donations
