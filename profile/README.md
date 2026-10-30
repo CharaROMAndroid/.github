@@ -92,7 +92,11 @@ Without source code access, you cannot confirm what is running on your device. T
 
 - Malware  
 - Data leaks  
-- Unauthorized access to personal information  
+- Unauthorized access to personal information 
+
+> ❌ **A source link isn't proof of source**
+
+Some ROMs link a "kernel source" repo that doesn't match the kernel they actually ship, or can't even build for the device. If the linked kernel lacks your device's defconfig and device trees, or the commit in the shipped kernel's version string isn't in that repo, the source isn't really available.
 
 **Bottom line:**
 - ✅ Prefer **open-source ROMs and FOSS applications**
